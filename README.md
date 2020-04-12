@@ -1,4 +1,4 @@
-#N-királynő megoldása Sosic és Gu 1990-es cikke alapján </br>
+# N-királynő megoldása Sosic és Gu 1990-es cikke alapján </br>
 
 A királynőket úgy helyezzük el a táblán hogy minden sorba és minden oszlopba csak egy szerepelhet. A királynők helyének eltárolásához egy egydimenziós tömböt használunk, ahol a tömb elemeinek sorszáma a saktábla sorait és a tömb elemei pedig a saktábla oszlopait tárolják.
 
